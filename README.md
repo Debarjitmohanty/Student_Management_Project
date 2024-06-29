@@ -60,5 +60,14 @@ To run this project, you will need to add the following dependency  to your pom.
 
 ## Project View
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![StudentList](https://github.com/Debarjitmohanty/Student_Management_Project/assets/91021174/db22a425-833f-455e-b457-fe4116c567b9)
+
+![AddNewStudent](https://github.com/Debarjitmohanty/Student_Management_Project/assets/91021174/82af6777-129f-4546-9557-cac76bcd9de7)
+
+
+![UpdateForm](https://github.com/Debarjitmohanty/Student_Management_Project/assets/91021174/15d76028-4832-43d1-9176-b8766be9d428)
+
+
+
+
 
