@@ -1,60 +1,64 @@
-# Student_Management_Project
 
-<h2>Project Overview</h2></br>
-This project is a simple web application that allows users to manage student information through basic CRUD operations. It demonstrates the core functionalities of Spring Boot in handling data and building using Spring data jpa.</br>
+# Project Overview
 
-#IDE/Version :</br>
+This project is a simple web application that allows users to manage student information through basic CRUD operations. It demonstrates the core functionalities of Spring Boot in handling data and building using Spring data jpa.
 
-Java 21</br>
-STS 3.3.0</br>
 
-<h2>We perform:</h2>
 
-show data on home page
-enter new student data
-edit student data from database
-delete student data from database
 
-<h2>Add Dependency:</h2>
 
-Spring Boot DevTools
-Lombok
-Spring Data Jpa
-MySQL Driver
-Thymeleaf
-Spring Web
+## IDE/Version
 
-<h2>Key Features</h2>
-Create Student:
+- Java 21
+- STS 3.3.0
 
-Endpoint to add new student records.
-Capture details such as name, age, class, and contact information.
-Read Student:
+## we perform
 
-Endpoint to retrieve a list of all students.
-Endpoint to retrieve a specific student by ID.
-Update Student:
+- show data on home page
+- enter new student data
+- edit student data from database
+- delete student data from database
 
-Endpoint to update the details of an existing student by ID.
-Delete Student:
 
-Endpoint to delete a student record by ID.
-Technology Stack
-Backend: Spring Boot
-Database: H2 (in-memory for simplicity), MySQL, or PostgreSQL
-Build Tool: Maven or Gradle
-RESTful API: Exposing endpoints for CRUD operations
-Project Structure
-Model:
+## Add Dependency:
 
-Define a Student entity class with attributes like id, name, age, class, and contact.
-Repository:
+To run this project, you will need to add the following dependency  to your pom.xml file
 
-Create a StudentRepository interface extending JpaRepository for database operations.
-Service:
+`Spring Boot DevTools`
 
-Implement a StudentService class to handle business logic for CRUD operations.
-Controller:
+`Lombok`
 
-Develop a StudentController class to map HTTP requests to service methods.
+`Spring Data Jpa`
+
+`MySQL Driver`
+
+`Thymeleaf`
+
+`Spring Web`
+
+
+
+
+## key Features
+
+- Create Student:
+`Capture details such as first name,last name, email`
+
+-Read Student:
+
+`Endpoint to retrieve a list of all students`
+
+- Update Student:
+
+`Endpoint to update the details of an existing student by ID.`
+
+- Delete Student:
+
+`Endpoint to delete a student record by ID.`
+
+
+
+## Project View
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
